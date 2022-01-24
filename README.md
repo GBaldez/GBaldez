@@ -2,8 +2,8 @@
 
 ## I'm a Cook and Developer!!
 
-- 🌱 I’m always seeking to learn
-- 🥅 2022 Goals: Contribute more to Open Source projects and help people.
+- 🌱 I’m always seeking to learn.
+- 🥅 2022 Goals: Get a Full-Time Software Engineer Job.
 - ⚡ Fun fact: I love music, cooking and doing sports, having fun with friends.
 
 ### Connect with me:

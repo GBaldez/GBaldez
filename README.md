@@ -6,7 +6,8 @@
 - 🥅 2022 Goals: Get a Full-Time Software Engineer Job.
 - ⚡ Fun fact: I love music, cooking and doing sports, having fun with friends.
 
-
+## Recently played on my Spotfy 🎧
+![My last songs heard](https://spotify-recently-played-readme.vercel.app/api?user=28ozz4t7a3xqptoivn7mgnux5)
 
 ### Connect with me:
 

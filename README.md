@@ -14,6 +14,8 @@
 
 [<img align="left" alt="linkedin-icon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="codepen-icon | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+
 <br />
 
 ### Languages and Tools:
@@ -42,3 +44,4 @@
 
 [youtube]: https://www.youtube.com/channel/UC7L6nPb3wI5YbfprWCOOxzw
 [linkedin]: https://www.linkedin.com/in/gabriel-baldez/
+[codepen]: https://codepen.io/gbaldez
